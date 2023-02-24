@@ -467,7 +467,7 @@
             "description": "a versatility and compositional variation anime/manga model, <br>focused on more anatomical stability and slightly less on variation due to further multi-epoch training and finetuning."
         },
         {
-            "name": "trinart-characters-v2",
+            "name": "anime-pencil-diffusion-v4",
             "files": [
                 {
                     "path": "models/Stable-diffusion/anime-pencil-diffusion-v4.ckpt",

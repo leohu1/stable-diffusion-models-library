@@ -467,6 +467,18 @@
             "description": "a versatility and compositional variation anime/manga model, <br>focused on more anatomical stability and slightly less on variation due to further multi-epoch training and finetuning."
         },
         {
+            "name": "trinart-characters-v2",
+            "files": [
+                {
+                    "path": "models/Stable-diffusion/anime-pencil-diffusion-v4.ckpt",
+                    "url":"https://huggingface.co/yehiaserag/anime-pencil-diffusion/blob/main/anime-pencil-diffusion-v4.ckpt"
+                }
+            ],
+            "tags": ["SD_Model"], 
+            "repository_url": "https://huggingface.co/yehiaserag/anime-pencil-diffusion/",
+            "description": "A dreambooth finetune of stable diffusion 1.5 model that will output stuff in anime pencil concept drawing style."
+        },
+        {
             "name": "zelda",
             "files": [
                 {
